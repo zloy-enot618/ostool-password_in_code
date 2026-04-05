@@ -13,7 +13,7 @@ Olsint демонстрирует:
     ```
 2.  **Клонируйте репозиторий:**
     ```bash
-    git clone https://github.com/zloy-enot618/ostool-password_in_code/
+    git clone https://github.com/zloy-enot618/ostool-password_in_code.git
     ```
 3.  **Перейдите в папку проекта:**
     ```bash
@@ -42,7 +42,7 @@ Olsint демонстрирует:
     ```
 3.  **Клонируйте репозиторий:**
     ```bash
-    git clone https://github.com/zloy-enot618/ostool-password_in_code/
+    git clone https://github.com/zloy-enot618/ostool-password_in_code.git
     ```
 4.  **Перейдите в папку проекта:**
     ```bash
@@ -67,7 +67,7 @@ Olsint демонстрирует:
 3.  **Откройте командную строку** (нажмите `Win + R`, введите `cmd` и нажмите `Enter`).
 4.  **Клонируйте репозиторий:**
     ```cmd
-    git clone https://github.com/zloy-enot618/ostool-password_in_code/
+    git clone https://github.com/zloy-enot618/ostool-password_in_code.git
     ```
 5.  **Перейдите в папку проекта:**
     ```cmd
@@ -90,7 +90,7 @@ Olsint демонстрирует:
     ```
 3.  **Клонируйте репозиторий:**
     ```bash
-    git clone https://github.com/zloy-enot618/ostool-password_in_code/
+    git clone https://github.com/zloy-enot618/ostool-password_in_code.git
     ```
 4.  **Перейдите в папку проекта:**
     ```bash
